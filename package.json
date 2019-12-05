@@ -15,7 +15,7 @@
     "start": "react-scripts start",
     "build": "webpack --mode production",
     "host": "npm run build:docker",
-    "build:docker": "docker build https://github.com/manojmorishetty/StarWars.git:docker",
+    "build:docker": "docker build https://github.com/manojmorishetty/Kinduct-Athletes.git",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
