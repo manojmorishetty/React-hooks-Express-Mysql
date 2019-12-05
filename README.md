@@ -15,6 +15,9 @@ Server:
     server/contollers/Athletes.js - Core business logic which communicates with database component.
     server/db/queries.js - Generic query builder which communicates with mysql database.
 
+-> Database mysql
+    server/db/database.sql - contains pre run database queries.
+
 Client:
 
 -> Client is written on react using react hooks
@@ -36,6 +39,8 @@ Installation
 -> cd server
 
 -> run command "npm install" to download server packages.
+
+-> Go to mysql workbench or any IDE run server/db/database.sql queries.
 
 -> run command "npm start" to start server.
 
