@@ -32,7 +32,7 @@ Client:
 
 Installation
 
--> git clone https://github.com/manojmorishetty/Kinduct-Athletes.git
+-> git clone https://github.com/manojmorishetty/React-hooks-Express-Mysql.git
 
 -> run command "npm install" to download client packages.
 
